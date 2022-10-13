@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Odinndev
+- 👀 I’m interested in Web Development / Game Development. amongst many things related to web development.
+- 🌱 I’m currently learning Next.js / Blender / unity / Unreal Engine
+- 💞️ I’m looking to collaborate on React / Next Anything im interested in.
+- 📫 How to reach me : Coming soon
